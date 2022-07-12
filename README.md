@@ -1,10 +1,13 @@
-### Hve A Good Time!
+# Have A Good Time!
 
-<div ign="center">
+<div align="center">
+  
 ![Visitor Count](https://profile-counter.glitch.me/John-Ferrel/count.svg)
-</p>
+  
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Ferrel)](https://github.com/John-Ferrel/github-readme-stats)![John-Ferrel's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Ferrel&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Ferrel)]
+(https://github.com/John-Ferrel/github-readme-stats)![John-Ferrel's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Ferrel&show_icons=true&theme=tokyonight)
 
 
 - 🔭 I’m currently working on ...
