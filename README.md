@@ -19,7 +19,7 @@ Personal Introduction
 
 </h2>
 
-- 🔭 I’m currently Study in Fudan University
+- 🔭 I’m currently Studying in Fudan University
 - 👯 My Major in Data Science
 - 🌱 I’m currently learning Statistics, Machine Learning ...
 - 📫 How to reach me: jf1223457796 AT gmail DOT com
